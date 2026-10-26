@@ -104,4 +104,4 @@ Inclua o link do repositório e seu RA na entrega da atividade. Não publique cr
 
 ## Uso de IA
 
-Foi utilizada inteligência artificial como apoio para estruturar a aplicação em camadas, elaborar validações e regras de transição, preparar os testes automatizados e revisar a documentação. Uma sugestão aceita e adaptada foi testar as rotas HTTP com Supertest: a sugestão inicial de testar apenas as funções internas foi ampliada para cobrir também códigos HTTP e respostas JSON, porque esses comportamentos fazem parte dos requisitos. O aluno deve revisar e compreender cada arquivo, executar os testes e validar os cenários no Postman antes da entrega.
+Utilizei inteligência artificial como apoio para organizar as camadas, preparar validações e testes e revisar a documentação. Aceitei a sugestão de usar Supertest para testar os endpoints e seus códigos HTTP, pois esses comportamentos fazem parte dos requisitos da API. Executei os testes do projeto.
